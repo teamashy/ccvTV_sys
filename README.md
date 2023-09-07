@@ -1,6 +1,6 @@
 READ ME
-Eye_See_You
-Is a surveillance system i made because most of the existing systems had major downfalls. eg They recored all the time instead of at certain times when a certain criteria was met ie a certain object comes into view or motion is detected.
+
+surveillance system i made because most of the existing systems had major downfalls. eg They recored all the time instead of at certain times when a certain criteria was met ie a certain object comes into view or motion is detected.
 This system reduces the amount of useless footage that is recorded by a significant margins if the proper setting are used.
 
 ISTRUCTIONS
